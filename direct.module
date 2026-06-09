@@ -1,3 +1,4 @@
+#!name=direct
 [Rule]
 DOMAIN,cdn-cn.apple-mapkit.com,DIRECT
 DOMAIN,certs-lb.apple.com.akadns.net,DIRECT
